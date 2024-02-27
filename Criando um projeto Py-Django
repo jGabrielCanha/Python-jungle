@@ -1,0 +1,11 @@
+1) Criar projeto ou repositorio no github
+2) Clonar projeto e criar .gitignore
+3) Criar a venv
+    antigamente -> virtualvenv -p python3.7 venv
+
+4) Ativar a venv (deactivate desativa a venv)
+    windows -> .\venv\Scripts\activate
+    linux -> source venv/bin/activate
+
+5) Instala pacotes via pip
+    python -m pip install nomePacote=versao
