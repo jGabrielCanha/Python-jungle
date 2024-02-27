@@ -9,3 +9,6 @@
 
 5) Instala pacotes via pip
     python -m pip install nomePacote=versao
+
+6) Criar o arquivo requirements.txt ------- pip freeze (lista os pacotes)
+    pip freeze > requirements.txt
