@@ -1,0 +1,7 @@
+venv
+.DS_Stpre
+*.pyc
+.env
+.vscode
+.idea
+projeto/uploads/midias/
